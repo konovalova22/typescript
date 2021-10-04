@@ -1,4 +1,4 @@
-class User{
+/* class User{
     name : string;
     constructor(_name:string){
           
@@ -7,4 +7,7 @@ class User{
 }
 const tom : User = new User("Том");
 const header = this.document.getElementById("header");
-header.innerHTML = "Привет " + tom.name;
+header.innerHTML = "Привет " + tom.name; */
+
+const num:number=123
+console.log(num)
